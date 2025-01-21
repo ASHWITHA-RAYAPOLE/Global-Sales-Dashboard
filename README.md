@@ -1,10 +1,32 @@
-# Global-Sales-Dashboard
-Sales-Dashboard-Using-Power-BI
-In this project, i have made a intractive Power BI Sales Dashboard on Global_super_store sales data and find some insights from the data. In order to building the dashboard the ETL process was done as per the requirements, Power query was used to clean and transform the data and DAX was used for creating the culculated measures and culculated column.
-Once done with the culculations, i have made visualizations and create report using cards, charts, slicer etc.
-Which help to easy understanding of the end-user and give meaningful insights.
-Tools and Technology used-
-1. Microsoft Power BI
-2. MS Excel
-Data Source used-
-Kaggle- https://www.kaggle.com/datasets/tahir1413/global-superstore-2016
+# Sales Dashboard Using Power BI
+
+This project involves creating an interactive **Power BI Sales Dashboard** using the **Global Superstore** sales dataset. The dashboard provides insights into sales performance, leveraging data visualization and analysis techniques for better decision-making.
+
+---
+
+## **Project Overview**
+- Built an interactive **Sales Dashboard** using Power BI for **Global Superstore Sales Data**.
+- Performed **ETL (Extract, Transform, Load)** processes as per requirements:
+  - **Power Query**: Used for data cleaning and transformation.
+  - **DAX (Data Analysis Expressions)**: Created calculated measures and columns for advanced analysis.
+- Designed visualizations including **cards, charts, slicers**, and more for easy understanding and actionable insights for end-users.
+
+---
+
+## **Key Features**
+1. **Interactive Visualizations**: Enabled users to explore key metrics with intuitive charts and cards.
+2. **Insights Extraction**: Simplified business trends analysis through meaningful dashboards.
+3. **End-User Friendly Design**: Created a dashboard layout that is easy to interpret for stakeholders.
+
+---
+
+## **Tools and Technologies Used**
+1. **Microsoft Power BI**
+2. **MS Excel**
+
+---
+
+## **Data Source**
+- Dataset: [Global Superstore 2016](https://www.kaggle.com/datasets/tahir1413/global-superstore-2016)  
+- Platform: Kaggle  
+
